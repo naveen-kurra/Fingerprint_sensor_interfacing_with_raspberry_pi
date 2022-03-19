@@ -1,7 +1,7 @@
 # Fingerprint_sensor_interfacing_with_raspberry_pi
 Developed a real-time finger print based security system using Raspberry Pi. Python was chosen as language of programming.
 
-<img src="fp.jpeg" alt="alt text" width="500" height="500">
+<img src="fp.PNG" alt="alt text" width="500" height="500">
 <li>Components required
   <ul>1.Bread Board</ul>
  <ul>2.Raspberry Pi</ul>
